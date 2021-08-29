@@ -1,2 +1,2 @@
 # inheritance-of-insurance-classes
-A simple C++ project from Moraine Valley's CSC 240 course that uses a base "Insurance" class to derive consequent "Home Insurance" and "Auto Insurance" classes.
+A simple C++ project from Moraine Valley's CSC 240 course that uses a base "Insurance" class to derive consequent "Home Insurance" and "Auto Insurance" classes. The program implements iterative functions that can use the derived class's member functions to set their respective data members with user-inputted values. The program also implements an interative output function to output the derived object's members into a formatted table.
